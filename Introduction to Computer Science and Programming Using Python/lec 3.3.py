@@ -1,4 +1,4 @@
-x = float(raw_input('Enter a float between 0 and 1: '))
+x = float(raw_input('Enter a float: '))
 
 p = 0
 while (x*(2**p))%1 != 0:
@@ -16,6 +16,6 @@ while num > 0:
 
 for i in range(p - len(result)):
     result = '0' + result;
-
-result = result[0:-p] + '0.' + result[-p:]
+if (x%1)!= 0:
+    result = result[0:-p] + '.' + result[-p:]
 print('The binary representatition of the decimal ' + str(x) + ' is ' + str(result))
