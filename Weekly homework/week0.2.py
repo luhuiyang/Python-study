@@ -1,7 +1,7 @@
 x = int(raw_input('Enter your total number'))
-nums = []
 
 def last(x, step):
+    nums = []
     if x <= 0 or step <= 1:return 'params error'
     
     temp_step = step - 1
@@ -19,6 +19,6 @@ def last(x, step):
             temp_step += step -1
     return nums
 
-nums = last(x, 3)
+num = last(x, 3)
 
-print nums
+print num
