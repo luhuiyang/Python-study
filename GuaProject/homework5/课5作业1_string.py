@@ -337,6 +337,7 @@ def test_strip():
     ensure(strip('') == '', 'strip 测试 3')
     ensure(strip('    ') == '', 'strip 测试 4')
 
+
 # test_strip()
 
 
@@ -353,7 +354,7 @@ def replace(s, old, new):
     newhead = s.find(old)
     if newhead != -1:
         oldlen = len(old)
-        result = s[:newhead] + new + s[newhead + oldlen :]
+        result = s[:newhead] + new + s[newhead + oldlen:]
         log('raplace result = ', result)
         return result
     return s
@@ -365,8 +366,8 @@ def test_replace():
     ensure(replace('hello', 'world', 'gua') == 'hello', 'replace 测试 2')
     ensure(replace('hello', 'll', 'gua') == 'heguao', 'replace 测试 3')
 
-test_replace()
 
+test_replace()
 
 # =====
 # 提示

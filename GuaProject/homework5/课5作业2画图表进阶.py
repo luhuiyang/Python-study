@@ -78,7 +78,7 @@ def rect_line_sample(x, y, w, h, space, n):
 # 扩展 1.5 的函数
 # 1, 增加 w h 是图表整体的高
 # 2, 给图表增加背景色 '#beeeef'
-def bar_chart1(x, y, w, h, forecasts, height_ratio = 10, color='#ff0000', space=10, bar_width = 30):
+def bar_chart1(x, y, w, h, forecasts, height_ratio=10, color='#ff0000', space=10, bar_width=30):
     # 先设置图表属性
     # w, h = 300, 300
     # 画坐标轴
@@ -103,7 +103,10 @@ def bar_chart1(x, y, w, h, forecasts, height_ratio = 10, color='#ff0000', space=
         bar_height = offset_y - y
         pen.rect(offset_x, offset_y, bar_width, bar_height, color)
 
+
 temps = [22, 19, 22, 30, 25, 27, 24]
+
+
 # 在 0, 0 处画出天气数据
 # bar_chart1(-200, -200, 300, 300, temps)
 
@@ -170,6 +173,7 @@ def bar_chart6(x, y, w, h, forecasts, bar_width, scale=0.9, color='#ff0000', spa
         bar_width = w / len(forecasts) - space
     bar_chart4(x, y, w, h, forecasts, bar_width, scale, color, space)
 
+
 # bar_chart6(-200, -200, 200, 200, temps, 20, 0.9)
 
 
@@ -186,6 +190,7 @@ def bar_chart7(x, y, w, h, forecasts, bar_width, scale=0.9, color='#ff0000', spa
         pen.setpen(x, newy)
         pen.goto(newlen, newy)
     bar_chart6(x, y, w, h, forecasts, bar_width, scale, color, space)
+
 
 bar_chart7(-200, -200, 200, 200, temps, 20, 0.9)
 
