@@ -15,7 +15,8 @@
 
 # 重新定义我们的 log 函数
 def log(*args):
-    print(*args)
+    # print(*args)
+    pass
 
 
 # ====
@@ -33,6 +34,10 @@ def ensure(condition, message):
         log('*** 测试失败:', message)
 
 
+a = [1, 2, 3, 1, 3, 5]
+b = [1, 2, 3, 5]
+
+
 # 作业 8.1
 # 5 分钟做不出就看提示
 #
@@ -45,6 +50,24 @@ def unique(a):
 
 	:return: list
     '''
+    result = []
+    add = True
+    for i in a:
+        add = True
+        for j in result:
+            if i == j:
+                add = False
+                break
+        if add:
+            result.append(i)
+        log('unique test', result)
+    return result
+
+
+log(ensure(unique(a) == b, '测试1'))
+
+a = [1, 2, 3, 1, 3, 5, 6, 8]
+b = [1, 2, 3, 5, 1, 6, 7]
 
 
 # 作业 8.2
@@ -59,7 +82,20 @@ def intersection(a, b):
 
     :return: list
     '''
-    pass
+    result = []
+    # a = unique(a)
+    # b = unique(b)
+    for i in a:
+        for j in b:
+            if i == j:
+                result.append(j)
+        log('intersection test', result)
+    result = unique(result)
+    log('result', result)
+    return result
+
+
+log(ensure(intersection(a, b), '错误1'))
 
 
 # 作业 8.3
@@ -74,7 +110,11 @@ def union(a, b):
 
     :return: list
     '''
-    pass
+    log('union text', unique(a + b))
+    return unique(a + b)
+
+
+log(ensure(union(a, b) == [1, 2, 3, 5, 6, 8, 7], 'union测试1'))
 
 
 # 作业 8.4
@@ -90,7 +130,19 @@ def difference(a, b):
 
     :return: list
     '''
-    pass
+    result = []
+    for i in a:
+        add = True
+        for j in b:
+            if i == j:
+                add = False
+        if add:
+            result.append(i)
+            log('8.4 result ', result)
+    return result
+
+
+log(ensure(difference(a, b) == [8], '错误'), '测试8.4')
 
 
 # 作业 8.5
@@ -106,7 +158,10 @@ def difference_all(a, b):
 
     :return: list
     '''
-    pass
+    return difference(a, b) + difference(b, a)
+
+
+log(ensure(difference_all(a, b) == [8, 7], '错误'), '测试8.4')
 
 
 # 作业 8.6
@@ -121,7 +176,7 @@ def issubset(a, b):
 
     :return: bool
     '''
-    pass
+    return difference(a, b) == []
 
 
 # ===
@@ -133,6 +188,42 @@ def issubset(a, b):
 # 作业 8.7
 # 5 分钟做不出就看提示
 #
+import turtle
+
+t = turtle.Turtle()
+turtle.tracer(10000, 0.0001)
+
+
+def setpen(x, y):
+    t.penup()
+    t.goto(x, y)
+    t.pendown()
+    t.setheading(0)
+
+
+def rect(x, y, l, color):
+    setpen(x, y)
+    t.color('white')
+    # t.fillcolor(c['color'])
+    t.fillcolor(color)
+    t.begin_fill()
+    for i in range(4):
+        t.forward(l)
+        t.right(90)
+    t.end_fill()
+
+
+# def click(*args):
+#     print('click')
+#     print(args)
+#     x, y = args
+#     length = 50
+#     x = (x // length) * length
+#     y = (y // length + 1) * length
+#     draw_char(x, y, char_8)
+
+
+
 def draw_pixel(x, y, pixel, size=3):
     '''
     pixel 是一个 像素值
@@ -143,7 +234,14 @@ def draw_pixel(x, y, pixel, size=3):
 
     :return: None
     '''
-    pass
+    color = {
+        '0': 'white',
+        '1': 'black',
+    }
+    rect(x, y, size, color[pixel])
+
+
+# draw_pixel(0, 0, '1', 33)
 
 
 # 作业 8.8
@@ -157,8 +255,14 @@ def draw_line(x, y, pixels, size=3):
 
     :return: None
     '''
-    pass
+    for i in range(len(pixels)):
+        offset_x = x + i * size
+        log('offset_x = ', offset_x, 'i = ', i)
+        log('pixels[', i, '] = ', pixels[i])
+        draw_pixel(offset_x, y, pixels[i], size)
 
+
+# draw_line(0, 0, ['1', '0', '1','0', '1'], 10)
 
 # 作业 8.9
 # 5 分钟
@@ -172,13 +276,31 @@ def draw_block(x, y, block, size=3):
 
     :return: None
     '''
-    pass
+    for i in range(len(block)):
+        offset_y = y - i * size
+        log('offset_x = ', offset_y, 'i = ', i)
+        log('block[', i, '] = ', block[i])
+        draw_line(x, offset_y, block[i], size)
+
+
+block = [
+    ['1', '0', '1', '0', '1'],
+    ['1', '0', '1', '0', '1'],
+    ['1', '0', '1', '0', '1'],
+    ['1', '0', '1', '0', '1'],
+    ['1', '0', '1', '0', '1'],
+]
+
+
+# draw_block(0, 0, block, 10)
+
+
 
 
 # 作业 8.10
 # 5分钟
 #
-def draw_block_line(x, y, line):
+def draw_block_line(x, y, line, size=3):
     '''
     line 是一个包含了上面 block 元素的 list
     block 的宽度是 size * number_of_pixels (这个不懂就留言问)
@@ -186,13 +308,27 @@ def draw_block_line(x, y, line):
 
     :return: None
     '''
-    pass
+    # block = []
+    # number = int(line / size)
+    # for i in range(number):
+    #     temp = []
+    #     for j in range(number):
+    #         temp.append('0')
+    #     block.append(temp)
+    # draw_block(x, y, block, size)
+    offset = len(line[0][0]) * size
+    for i in range(len(line)):
+        offset_x = x + offset * i
+        draw_block(offset_x, y, line[i], size)
+
+
+# draw_block_line(-100, 100, [block])
 
 
 # 作业 8.11
 # 5分钟
 #
-def draw_block_map(x, y, map):
+def draw_block_map(x, y, map, size=3):
     '''
     map 是一个包含了 line 元素的 list
     line 是一个包含了上面 block 元素的 list
@@ -201,10 +337,18 @@ def draw_block_map(x, y, map):
 
     :return: None
     '''
-    pass
+    offset = len(map[0][0][0]) * size
+    for i in range(len(map)):
+        offset_y = y - i * offset
+        draw_block_line(x, offset_y, map[i], size)
+
+# draw_block_map(-200, -200, [[block]])
 
 
-# 作业 8.12
+
+        # 作业 8.12
+
+
 # 5分钟
 #
 # 画扫雷地图
@@ -217,6 +361,149 @@ square = [
     [9, 2, 1, 1, 0],
 ]
 
+char = {
+    0: [
+        '00000000000',
+        '00000000000',
+        '00001110000',
+        '00010001000',
+        '00010001000',
+        '00010001000',
+        '00010001000',
+        '00010001000',
+        '00001110000',
+        '00000000000',
+        '00000000000',
+    ],
+
+    1: [
+        '00000000000',
+        '00000000000',
+        '00000100000',
+        '00001100000',
+        '00000100000',
+        '00000100000',
+        '00000100000',
+        '00000100000',
+        '00001110000',
+        '00000000000',
+        '00000000000',
+    ],
+
+    2: [
+        '00000000000',
+        '00000000000',
+        '00011111000',
+        '00000001000',
+        '00000001000',
+        '00011111000',
+        '00010000000',
+        '00010000000',
+        '00011111000',
+        '00000000000',
+        '00000000000',
+    ],
+
+    3: [
+        '00000000000',
+        '00000000000',
+        '00011111000',
+        '00000001000',
+        '00000001000',
+        '00011111000',
+        '00000001000',
+        '00000001000',
+        '00011111000',
+        '00000000000',
+        '00000000000',
+    ],
+
+    4: [
+        '00000000000',
+        '00000000000',
+        '00000010000',
+        '00000110000',
+        '00001010000',
+        '00010010000',
+        '00111111100',
+        '00000010000'
+        '00000010000',
+        '00000010000',
+        '00000000000',
+    ],
+
+    5: [
+        '00000000000',
+        '00000000000',
+        '00011111000',
+        '00010000000',
+        '00010000000',
+        '00011111000',
+        '00000001000',
+        '00000001000',
+        '00011110100',
+        '000000000000',
+        '00000000000',
+    ],
+
+    6: [
+        '00000000000',
+        '00000000000',
+        '00011111000',
+        '00010000000',
+        '00010000000',
+        '00011111000',
+        '00010001000',
+        '00010001000',
+        '00011111000',
+        '00000000000',
+        '00000000000',
+    ],
+
+    7: [
+        '00000000000',
+        '00000000000',
+        '00011111000',
+        '00010001000',
+        '00000001000',
+        '00000001000',
+        '00000001000',
+        '00000001000',
+        '00000001000',
+        '00000000000',
+        '00000000000',
+    ],
+
+    8: [
+        '00000000000',
+        '00000000000',
+        '00011111000',
+        '00010001000',
+        '00010001000',
+        '00011111000',
+        '00010001000',
+        '00010001000',
+        '00011111000',
+        '00000000000',
+        '00000000000',
+    ],
+
+    9: [
+        '00000000000',
+        '00000100000',
+        '00101110100',
+        '00011111000',
+        '00110111100',
+        '01110111110',
+        '00111111100',
+        '00011111000',
+        '00101110100',
+        '00000100000',
+        '00000000000',
+    ],
+}
+
+
 def draw_mine_map(x, y, map):
     '''
     x y 是地图左上角坐标
@@ -228,12 +515,26 @@ def draw_mine_map(x, y, map):
 
     :return: None
     '''
-    pass
+    mymap = []
+    for i in square:
+        tempmap = []
+        for j in i:
+            tempmap.append(char.get(j))
+            # log(char[j])
+        mymap.append(tempmap)
+    draw_block_map(x, y, mymap, 8)
 
 # 直接使用 square 来调用画地图函数
 draw_mine_map(-200, 200, square)
 
+turtle.listen()
 
+# onscreenclick 是配置一个函数, 你点击屏幕的时候调用
+# turtle.onscreenclick(click)
+
+
+turtle.update()
+turtle.done()
 # =====
 # 提示
 # =====
