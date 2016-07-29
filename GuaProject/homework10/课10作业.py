@@ -40,7 +40,12 @@ def length(node):
 
 	:return: int
     '''
-    pass
+    count = 0
+    while node != None:
+        count += 1
+        node = node.next
+    return count
+
 
 
 # 作业 10.2
@@ -53,7 +58,9 @@ def element_at_index(node, n):
 
     :return: Node 中存储的元素
     '''
-    pass
+    for i in range(n):
+        node = node.next
+    return node.element
 
 
 # 作业 10.3
@@ -65,7 +72,10 @@ def append(node, element):
 
     :return: None
     '''
-    pass
+    while node != None:
+        node = node.next
+    node = Node(element)
+    return None
 
 
 # 作业 10.4
@@ -78,7 +88,106 @@ def insert_after_index(node, index, element):
 
     :return: None
     '''
-    pass
+    for i in range(index):
+        node = node.next
+    temp = Node(element)
+    temp.next = node.next
+    node.next = temp
+    return
+
+
+# 作业 10.5
+#
+def remove(head, element):
+    '''
+    head 是 Node 实例
+	注意, head.next 才是第一个元素
+
+	删除第一个出现的 element 节点
+
+    :return: None
+    '''
+    node = head.next
+    pre = head
+    while node != None:
+        if node.element == element:
+            pre.next = node.next
+            break
+        else :
+            pre = node
+            node = pre.next
+    return
+
+
+
+# 作业 10.6
+#
+def remove_index(head, index):
+    '''
+    head 是 Node 实例
+	注意, head.next 才是第一个元素
+
+	删除第 index 个 Node
+   	head.next 是第 0 个 Node
+
+    :return: None
+    '''
+    pre = head
+    node = head.next
+    for i in range(index - 1):
+        pre = node
+        node = node.next
+    pre.next = node.next
+    return Node
+
+
+
+# 作业 10.7
+#
+def remove_all(head, element):
+    '''
+    head 是 Node 实例
+	注意, head.next 才是第一个元素
+
+	删除所有出现的 element 节点
+
+    :return: None
+    '''
+    node = head.next
+    pre = head
+    while node != None:
+        if node.element == element:
+            pre.next = node.next
+            node = node.next
+        else:
+            pre = node
+            node = pre.next
+    return
+
+
+
+# 作业 10.8
+#
+def reverse(head):
+    '''
+    head 是 Node 实例
+	注意, head.next 才是第一个元素
+
+	把这一串 Node 逆序
+
+    :return: None
+    '''
+    temp = Node()
+    node = head.next
+    while node != Node:
+        node.next = temp.next
+        temp.next = node
+        head.next = node.next
+        node = node.next
+    return
+
+
+
 
 
 # =====
