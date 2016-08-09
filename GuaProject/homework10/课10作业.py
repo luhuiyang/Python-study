@@ -187,6 +187,49 @@ def reverse(head):
     return
 
 
+# 作业 10.9
+#
+def reverse1(node):
+    '''
+    node 是 Node 实例
+	注意, node 是第一个元素, 并且 node 可能是 None
+
+	把这一串 Node 逆序并返回
+
+    :return:
+    '''
+
+    head = Node()
+    head.next = node
+    reverse(head)
+    return head.next
+
+# 作业 10.10
+# 10 分钟可看提示
+#
+def delete_next(node):
+    temp = node.next
+    node.next = temp.next
+
+def ytsefu(node, m=3):
+    '''
+    用链表实现约瑟夫环
+    node 是 Node 实例, 里面存了从 0 开始递增的编号
+	注意, node 是第一个元素
+    最后一个元素的 next 是第一个元素
+    也就是说, 它是一个环
+
+
+	从第一个元素开始数, 数到 m 就发红包并移除
+
+    返回最后一个得到红包的人的编号
+
+    :return:
+    '''
+    while node.next != None:
+        delete_next(node.next.next)
+        node = node.next.next
+
 
 
 
@@ -198,5 +241,10 @@ def reverse(head):
 length
     遍历计数
 
+
+10.10
+ytsefu
+	定义一个辅助函数 delete_next
+    计数 删除
 
 '''
