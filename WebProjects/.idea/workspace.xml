@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf4ba8d-60cc-44f0-83dd-4ea731d6afde" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课2/class2上课用品/doge.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课1/homework1/课1作业.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课1/homework1/课1作业原件.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课2/class2上课用品/2client_ssl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课2/class2上课用品/2server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课2/class2上课用品/html_basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课2/homework2/课2作业.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课2/homework2/课2作业原件.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class1/1client.py" afterPath="$PROJECT_DIR$/课1/class1/1client.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class1/1server.py" afterPath="$PROJECT_DIR$/课1/class1/1server.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class1/1上课用品.py" afterPath="$PROJECT_DIR$/课1/class1/1上课用品.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class1/Web准备工作.py" afterPath="$PROJECT_DIR$/课1/class1/Web准备工作.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class1/doge0.gif" afterPath="$PROJECT_DIR$/课1/class1/doge0.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/class1/doge1.gif" afterPath="$PROJECT_DIR$/课1/class1/doge1.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test1/MyClient.py" afterPath="$PROJECT_DIR$/课1/test1/MyClient.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test1/MyServer.py" afterPath="$PROJECT_DIR$/课1/test1/MyServer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GuaProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../GuaProject/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课2/homework2/课2作业.py" afterPath="$PROJECT_DIR$/课2/homework2/课2作业.py" />
     </list>
     <ignored path="WebProjects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,62 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2client_ssl.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2client_ssl.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/课2/class2上课用品/2client_ssl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="221" column="12" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="12" />
+            <state relative-caret-position="69">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课2/class2上课用品/2server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html_basic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课2/class2上课用品/html_basic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="课2作业原件.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课2/homework2/课2作业原件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="课2作业.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="课2作业.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/课2/homework2/课2作业.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="课1作业原件.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课1/homework1/课1作业原件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-874">
+              <caret line="114" column="24" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="25" />
+              <folding>
+                <element signature="e#134#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,18 +49,8 @@
       <file leaf-file-name="课1作业.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/课1/homework1/课1作业.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2806">
-              <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课1/class1/1client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="368">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -140,10 +76,11 @@
         <option value="$PROJECT_DIR$/class1/1client.py" />
         <option value="$PROJECT_DIR$/test1/MyClient.py" />
         <option value="$PROJECT_DIR$/test1/MyServer.py" />
-        <option value="$PROJECT_DIR$/课1/homework1/课1作业.py" />
         <option value="$PROJECT_DIR$/课2/class2上课用品/html_basic.html" />
         <option value="$PROJECT_DIR$/课2/homework2/课2作业原件.py" />
         <option value="$PROJECT_DIR$/课1/homework1/课1作业原件.py" />
+        <option value="$PROJECT_DIR$/课1/homework1/课1作业.py" />
+        <option value="$PROJECT_DIR$/课2/homework2/课2作业.py" />
       </list>
     </option>
   </component>
@@ -178,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -215,6 +153,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="课2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class2上课用品" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -270,7 +212,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -290,24 +231,7 @@
       <recent name="C:\Users\ylhya\Documents\Python-study\WebProjects\homework1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2server">
-    <configuration default="false" name="MyServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="WebProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/MyServer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.课2作业">
     <configuration default="false" name="课1作业" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,28 +247,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课1/homework1/课1作业.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest test_parsed_url" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课2/class2上课用品" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="WebProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课2/class2上课用品/2client_ssl.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="test_parsed_url" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="2client_ssl" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -377,6 +279,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="WebProjects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课2/class2上课用品/2server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest test_path_with_query" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课2/homework2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课2/homework2/课2作业.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="test_path_with_query" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="课2作业" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课2/homework2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课2/homework2/课2作业.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -516,19 +457,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MyServer" />
-      <item index="1" class="java.lang.String" itemvalue="Python.课1作业" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest test_parsed_url" />
-      <item index="3" class="java.lang.String" itemvalue="Python.2client_ssl" />
-      <item index="4" class="java.lang.String" itemvalue="Python.2server" />
+      <item index="0" class="java.lang.String" itemvalue="Python.课1作业" />
+      <item index="1" class="java.lang.String" itemvalue="Python.2client_ssl" />
+      <item index="2" class="java.lang.String" itemvalue="Python.2server" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest test_path_with_query" />
+      <item index="4" class="java.lang.String" itemvalue="Python.课2作业" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.2server" />
-        <item index="1" class="java.lang.String" itemvalue="Python.课1作业" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2client_ssl" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest test_parsed_url" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MyServer" />
+        <item index="0" class="java.lang.String" itemvalue="Python.课2作业" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest test_path_with_query" />
+        <item index="2" class="java.lang.String" itemvalue="Python.2server" />
+        <item index="3" class="java.lang.String" itemvalue="Python.课1作业" />
+        <item index="4" class="java.lang.String" itemvalue="Python.2client_ssl" />
       </list>
     </recent_temporary>
   </component>
@@ -546,16 +487,27 @@
       <option name="presentableId" value="Default" />
       <updated>1470712697895</updated>
     </task>
+    <task id="LOCAL-00001" summary="课2， 课3内容">
+      <created>1470989723364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470989723364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="Unittest_test_parsed_url - 2016.08.11 at 17h 25m 38s.xml">
       <configuration name="Unittest test_parsed_url" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittest_test_path_with_query - 2016.08.12 at 16h 22m 52s.xml">
+      <configuration name="Unittest test_path_with_query" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1004" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1780822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -563,13 +515,13 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46153846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23880596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -587,11 +539,41 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="课2， 课3内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="课2， 课3内容" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/课2/class2上课用品/2client_ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课2/homework2/课2作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#134#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课1/homework1/课1作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/课2/class2上课用品/2client_ssl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5451">
@@ -604,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1702">
           <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,15 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课1/homework1/课1作业.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2806">
-          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="2713" column="8" selection-start-line="2713" selection-start-column="8" selection-end-line="2713" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,15 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课2/homework2/课2作业.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,15 +769,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课1/homework1/课1作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/课2/class2上课用品/2client_ssl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="221" column="12" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="12" />
+        <state relative-caret-position="69">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课2/homework2/课2作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="114" column="24" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="25" />
+          <folding>
+            <element signature="e#134#147#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
