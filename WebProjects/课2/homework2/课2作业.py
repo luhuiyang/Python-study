@@ -37,8 +37,8 @@ def path_with_query(path, query):
     q = ''
     for k, v in query.items():
         q += str(k) + '=' + str(v) + '&'
-        log('query', q)
-    log('path and query', path + '?' + q[:-1])
+        # log('query', q)
+    # log('path and query', path + '?' + q[:-1])
 
     return path + '?' + q[:-1]
 
@@ -267,28 +267,28 @@ def get(url, query):
 
 
 # 复杂的逻辑全部封装成函数
-def get(url, querry):
-    """
-    用 GET 请求 url 并返回响应
-    """
-    protocol, host, port, path = parsed_url(url)
-
-    s = socket_by_protocol(protocol)
-    s.connect((host, port))
-
-    request = 'GET {} HTTP/1.1\r\nhost: {}\r\nConnection: close\r\n\r\n'.format(path, host)
-    encoding = 'utf-8'
-    s.send(request.encode(encoding))
-
-    response = response_by_socket(s)
-    r = response.decode(encoding)
-
-    status_code, headers, body = parsed_response(r)
-    if status_code == 301:
-        url = headers['Location']
-        return get(url)
-
-    return status_code, headers, body
+# def get(url, querry):
+#     """
+#     用 GET 请求 url 并返回响应
+#     """
+#     protocol, host, port, path = parsed_url(url)
+#
+#     s = socket_by_protocol(protocol)
+#     s.connect((host, port))
+#
+#     request = 'GET {} HTTP/1.1\r\nhost: {}\r\nConnection: close\r\n\r\n'.format(path, host)
+#     encoding = 'utf-8'
+#     s.send(request.encode(encoding))
+#
+#     response = response_by_socket(s)
+#     r = response.decode(encoding)
+#
+#     status_code, headers, body = parsed_response(r)
+#     if status_code == 301:
+#         url = headers['Location']
+#         return get(url)
+#
+#     return status_code, headers, body
 
 
 # 作业 2.3
@@ -350,31 +350,40 @@ https://movie.douban.com/top250
 解析方式可以用任意手段，如果你没有想法，用字符串查找匹配比较好
 """
 
+def find_and_result(result, find_str):
+    length = len(find_str)
+    start = result.find(find_str)
+    result = result[start+length:]
+    find = ''
+    for s in result:
+        if s == '<':
+            break
+        find += s
+    return find, result
 
-def get_detail(result, is_start=False):
-    begin_position = 0
-
-    is_start = not is_start
-
-    if is_start:
-        start = result.find('"title">')
-        name = ''
-        result = result[start + 20:]
-        for s in result:
-            if s != '<':
-                name += s;
-            else :
-                log('movie name', name)
-                break
-        begin_position = len(name)
+def get_detail(result):
+    file = ''
+    # with open('movie.txt', 'r', encoding='utf-8') as f:
+    #     file = f.read()
+    #     log('file', file)
+    if result.find('<span class="title">') == -1:
+        return
     else:
-        begin_position = 27
-    get_detail(result[begin_position:], is_start)
-    pass
+        name, result = find_and_result(result, '<span class="title">')
+        point, result = find_and_result(result, '<span class="rating_num" property="v:average">')
 
-status_code, headers, body = get('https://movie.douban.com/top250', None)
-log('movie_data', body)
-get_detail(body)
+        count_start = result.find('<span property="v:best" content="10.0"></span>')
+        result = result[count_start+1:]
+        count, result = find_and_result(result, '<span>')
+        quote, result = find_and_result(result, '<span class="inq">')
+        log('名字', name, '分数', point, '评价人数', count, '引用语', quote)
+        file = '名字' + name + '分数' + point + '评价人数' + count + '引用语' + quote + '\r\n'
+        with open('movie.txt', 'a', encoding='utf-8') as f:
+            f.write(file)
+        get_detail(result)
+
+# status_code, headers, body = get('https://movie.douban.com/top250', None)
+# get_detail(body)
 
 
 # 作业 2.6
@@ -401,3 +410,14 @@ https://movie.douban.com/top250?start=25
 
 解析方式可以用任意手段，如果你没有想法，用字符串查找匹配比较好
 """
+
+def get_all_detail(count):
+    for i in range(0, count + 1, 25):
+        # log('start map', i)
+        start = {
+            'start':i
+        }
+        status_code, headers, body = get('https://movie.douban.com/top250', start)
+        get_detail(body)
+
+get_all_detail(100)
