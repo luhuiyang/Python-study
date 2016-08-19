@@ -69,6 +69,10 @@ class Model(object):
                 return m
         return None
 
+    @classmethod
+    def find(cls, id):
+        return cls.find_by(id=id)
+
     def __repr__(self):
         """
         __repr__ 是一个魔法方法
@@ -78,27 +82,37 @@ class Model(object):
         classname = self.__class__.__name__
         properties = ['{}: ({})'.format(k, v) for k, v in self.__dict__.items()]
         s = '\n'.join(properties)
-        return '< {}\n{} >\n'.format(classname, s)
+        return '< {}\n{} \n>\n'.format(classname, s)
 
     def save(self):
         """
         用 all 方法读取文件中的所有 model 并生成一个 list
         把 self 添加进去并且保存进文件
         """
-        log('debug save')
+        # log('debug save')
         models = self.all()
-        log('models', models)
-        if (len(models) != 0):
-            self['id'] = self.get('id', models[-1].get('id') + 1)
-        else :
-            self['id'] = 0
-
-        for u, index in enumerate(models):
-
-            if u.get('id') == self['id']:
-                models[index] = self
-            else :
-                models.append(self)
+        # log('models', models)
+        # 如果没有 id，说明是新添加的元素
+        if self.id is None:
+            # 设置 self.id
+            # 先看看是否是空 list
+            if len(models) == 0:
+                # 我们让第一个元素的 id 为 1（当然也可以为 0）
+                self.id = 1
+            else:
+                m = models[-1]
+                # log('m', m)
+                self.id = m.id + 1
+            models.append(self)
+        else:
+            # index = self.find(self.id)
+            index = -1
+            for i, m in enumerate(models):
+                if m.id == self.id:
+                    index = i
+                    break
+            log('debug', index)
+            models[index] = self
         l = [m.__dict__ for m in models]
         path = self.db_path()
         save(l, path)
@@ -110,9 +124,9 @@ class User(Model):
     现在只有两个属性 username 和 password
     """
     def __init__(self, form):
+        self.id = form.get('id', None)
         self.username = form.get('username', '')
         self.password = form.get('password', '')
-        self.id = form.get('id', None)
 
     def validate_login(self):
         # return self.username == 'gua' and self.password == '123'
@@ -128,9 +142,9 @@ class Message(Model):
     Message 是用来保存留言的 model
     """
     def __init__(self, form):
+        self.id = None
         self.author = form.get('author', '')
         self.message = form.get('message', '')
-        self.id = form.get('id', None)
 
 
 def test():
@@ -143,11 +157,12 @@ def test():
     )
     u = User(form)
     u.save()
-    u.save()
-    u.save()
-    u.save()
-    u.save()
-    u.save()
+    log('u.id', u.id)
+    u3 = User.find(3)
+    u3.password = '123 789'
+    u3.save()
+    log('u3', u3)
+    log(User.all())
 
 if __name__ == '__main__':
     test()
