@@ -2,28 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf4ba8d-60cc-44f0-83dd-4ea731d6afde" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/static/doge.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/static/doge1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/static/doge2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/写个爬虫自己玩/爬知乎.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/2server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/3class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/Message.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/User.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/douban_zhihu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/routes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/templates/html_basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/templates/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/templates/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/课5作业.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课5/课5作业/课5作业原件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品豪华版/todos.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/todos.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课10/课10上课内容" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课10/课10作业原件.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课11/课11上课内容" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课11/课11上课板书.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品/message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品/templates/message_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品豪华版/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品豪华版/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品豪华版/static/css/pure-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品豪华版/templates/todo_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13上课用品豪华版/todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品/log.gua.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品/message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品/templates/message_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/static/css/pure-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/templates/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/templates/todo_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/templates/user_login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13课后用品/web13上课用品豪华版/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/上课安装文件" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课6/课6作业原件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课9/课9上课内容.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课9/课9作业原件.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课4/课4作业/class4上课板书做作业/models.py" afterPath="$PROJECT_DIR$/课4/课4作业/class4上课板书做作业/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课4/课4作业/课4作业.py" afterPath="$PROJECT_DIR$/课4/课4作业/课4作业.py" />
     </list>
     <ignored path="WebProjects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,56 +51,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="douban_zhihu.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/douban_zhihu.py">
+      <file leaf-file-name="课6作业原件.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课6/课6作业原件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="224" column="16" selection-start-line="224" selection-start-column="16" selection-end-line="224" selection-end-column="16" />
-              <folding>
-                <element signature="e#19#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2client_ssl.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课4/class4上课板书/2client_ssl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-483">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="424">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/3class.py">
+      <file leaf-file-name="课9上课内容.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课9/课9上课内容.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-566">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-1919">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课4/class4上课板书/3class.py">
+      <file leaf-file-name="课9作业原件.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课9/课9作业原件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="1327">
+              <caret line="85" column="13" selection-start-line="66" selection-start-column="5" selection-end-line="85" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="爬知乎.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课5/写个爬虫自己玩/爬知乎.py">
+      <file leaf-file-name="课10上课内容" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课10/课10上课内容">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="课10作业原件.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课10/课10作业原件.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="课11上课内容" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课11/课11上课内容">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="课11上课板书.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课11/课11上课板书.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5396">
+              <caret line="284" column="0" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="上课安装文件" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课13/上课安装文件">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message_index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课13/web13课后用品/web13上课用品/templates/message_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,6 +147,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -142,14 +187,23 @@
         <option value="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/routes.py" />
         <option value="$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/douban_zhihu.py" />
         <option value="$PROJECT_DIR$/课5/写个爬虫自己玩/爬知乎.py" />
+        <option value="$PROJECT_DIR$/课6/课6作业原件.py" />
+        <option value="$PROJECT_DIR$/课9/课9上课内容.py" />
+        <option value="$PROJECT_DIR$/课9/课9作业原件.py" />
+        <option value="$PROJECT_DIR$/课10/课10上课内容" />
+        <option value="$PROJECT_DIR$/课10/课10作业原件.html" />
+        <option value="$PROJECT_DIR$/课11/课11上课内容" />
+        <option value="$PROJECT_DIR$/课11/课11上课板书.html" />
+        <option value="$PROJECT_DIR$/课13/上课安装文件" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1004" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -176,8 +230,83 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="WebProjects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="WebProjects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="WebProjects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="WebProjects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="课13">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="WebProjects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -186,118 +315,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="课5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="课5作业" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="课5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="课5作业" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="class5上课板书.未注释" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="课5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="写个爬虫自己玩" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="课5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="课3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="C:/Python34/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="WebProjects" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="WebProjects" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python-study\WebProjects\课13" />
       <recent name="C:\Users\ylhya\Documents\Python-study\WebProjects\课5\课5作业\class5上课板书.未注释\templates" />
       <recent name="C:\Users\ylhya\Documents\Python-study\WebProjects\课5\课5作业" />
       <recent name="C:\Users\ylhya\Documents\Python-study\WebProjects\课4\课4作业" />
       <recent name="C:\Users\ylhya\Documents\Python-study\WebProjects\课3\homework3" />
-      <recent name="C:\Users\ylhya\Documents\Python-study\WebProjects\课2\homework2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ylhya\Documents\Python-study\WebProjects\课5" />
@@ -590,17 +633,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1004" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19072708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19098985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32791328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45402297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33908045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3401084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="12" y="304" width="1576" height="251" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39885056" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -608,7 +652,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -653,72 +696,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/课2/homework2/课2作业原件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课3/class3带注释的板书/Message.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课3/class3带注释的板书/.idea/modules.xml" />
-    <entry file="file://$PROJECT_DIR$/课3/class3带注释的板书/.idea/misc.xml" />
-    <entry file="file://$PROJECT_DIR$/课3/class3带注释的板书/.idea/class2上课用品.iml" />
-    <entry file="file://$PROJECT_DIR$/课1/homework1/课1作业原件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课1/homework1/课1作业.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="125" column="30" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课1/class1/1client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课3/class3带注释的板书/User.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课3/class3带注释的板书/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课2/homework2/movie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2006">
-          <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课2/class2上课用品/2client_ssl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="51" column="45" selection-start-line="13" selection-start-column="0" selection-end-line="51" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/课2/class2上课用品/2server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
@@ -887,14 +864,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1442825926/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="2713" column="8" selection-start-line="2713" selection-start-column="8" selection-end-line="2713" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1442825926/builtins.py" />
     <entry file="file://$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -960,7 +930,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课4/class4上课板书/3class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
+        <state relative-caret-position="646">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
           <folding />
         </state>
@@ -968,7 +938,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课4/class4上课板书/2client_ssl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -976,7 +946,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/3class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-566">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -984,21 +954,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课5/写个爬虫自己玩/爬知乎.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="3401">
           <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/课5/课5作业/class5上课板书.未注释/douban_zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="4180">
           <caret line="224" column="16" selection-start-line="224" selection-start-column="16" selection-end-line="224" selection-end-column="16" />
           <folding>
-            <element signature="e#19#32#0" expanded="true" />
+            <element signature="e#19#32#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13上课用品/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1235">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13上课用品/templates/message_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课6/课6作业原件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课9/课9上课内容.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1919">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课9/课9作业原件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1327">
+          <caret line="85" column="13" selection-start-line="66" selection-start-column="5" selection-end-line="85" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/课10上课内容">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/课10作业原件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课11/课11上课内容">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课11/课11上课板书.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5396">
+          <caret line="284" column="0" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/上课安装文件">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13课后用品/web13上课用品/templates/message_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
