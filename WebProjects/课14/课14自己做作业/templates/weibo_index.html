@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>微博</title>
+</head>
+<body>
+    <!--注意这里 的 url_for 也是需要加上蓝图名字前缀的 -->
+    <form action={{ url_for("weibo.add") }} method="post">
+        <br>
+        <textarea name="content"></textarea>
+        <button type="submit">发微博</button>
+    </form>
+    {# 这是 Jinja2 模板的注释语法，这样的注释并不会在生成的 HTML 代码中出现 #}
+    {# {% %} 里面的是语句 #}
+    {# {{ }} 里面的是引用变量 #}
+    <!--注意w本身是一个字典，但是可以用 . 的语法来引用-->
+    <!--这是jinja2模板的功能-->
+    {% for w in weibos %}
+        <div> <h2>{{w.content}} by {{w.user_id}} </h2></div>
+        <!--{% for c in comments %}-->
+            <!--{% if c.weibo_id == w.id %}-->
+            <!--<div>{{w.content}} by {{w.user_id}}</div>-->
+        <!--{% endfor %}-->
+        <!--<form action={{url_for("weibo.comment") }} method="post" >-->
+            <!--<input placeholder="评论" name="comment">-->
+            <!--<input type="hidden" name="weibo_id" value=w.id>-->
+            <!--<button>提交</button>-->
+        <!--</form>-->
+    {% endfor %}
+</body>
+</html>

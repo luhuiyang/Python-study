@@ -53,3 +53,15 @@ ImmutableMultiDict(
 2016/09/05 20:09:23 request, query 参数 ImmutableMultiDict([])
 2016/09/05 20:09:45 msg view 请求方法 GET
 2016/09/05 20:09:45 request, query 参数 ImmutableMultiDict([])
+2016/09/08 11:52:33 msg view 请求方法 GET
+2016/09/08 11:52:33 request, query 参数 ImmutableMultiDict([])
+2016/09/08 11:52:50 msg view 请求方法 GET
+2016/09/08 11:52:50 request, query 参数 ImmutableMultiDict([('msg', '试一下')])
+2016/09/08 11:52:53 message_add 请求方法 POST
+2016/09/08 11:52:53 request, POST 的 form 表单数据 ImmutableMultiDict([('msg_post', '试一下')])
+2016/09/08 11:52:53 msg view 请求方法 GET
+2016/09/08 11:52:53 request, query 参数 ImmutableMultiDict([])
+2016/09/08 11:52:57 message_add 请求方法 POST
+2016/09/08 11:52:57 request, POST 的 form 表单数据 ImmutableMultiDict([('msg_post', '哈哈哈')])
+2016/09/08 11:52:57 msg view 请求方法 GET
+2016/09/08 11:52:57 request, query 参数 ImmutableMultiDict([])
