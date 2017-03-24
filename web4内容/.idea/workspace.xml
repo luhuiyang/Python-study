@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cccfb82-f6db-4d32-810d-ce8d4a5f7fb1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课11/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课14/web14准备工作-linux服务器设置/2-windows上用bitvise软件使用sshkey登录.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/._data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/._models" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/._routes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/._static" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/._templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/models/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/models/.___pycache__" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/routes/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/routes/.___pycache__" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/static/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/static/._css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课11/作业1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课11/作业5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课11/图标输入框作业.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课11/导航栏作业4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课14/web14准备工作-linux服务器设置/1-linux服务器设置.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/data/Blog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/data/BlogComment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/data/Comment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/data/Todo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/data/User.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/data/Weibo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/log.gua.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/weibo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/session_exp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/static/css/pure-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/comment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/comment_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/session.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/session_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/session_index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/todo_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课板书/web15上课用品/web15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/._utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/data/._Blog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/data/._BlogComment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/data/._Comment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/data/._Todo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/data/._Weibo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/models/._blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/models/._comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/models/._todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/models/._weibo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/routes/.___init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/routes/._blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/routes/._comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/routes/._session_exp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/routes/._todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/static/css/._pure-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._blog_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._blog_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._blog_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._comment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._session_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/__MACOSX/templates/._todo_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/data/Blog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/data/BlogComment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/data/Comment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/data/Todo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/data/User.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/data/Weibo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/log.gua.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/models/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/models/comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/models/todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/models/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/models/weibo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/routes/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/routes/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/routes/comment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/routes/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/routes/session_exp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/routes/todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/static/css/pure-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/blog_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/blog_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/blog_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/comment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/session_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/templates/todo_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课15/web15上课用品/web15.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GuaProject/.idea/misc.xml" afterPath="$PROJECT_DIR$/../GuaProject/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GuaProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../GuaProject/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WebProjects/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../WebProjects/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="comment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/comment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comment_new.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/comment_new.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/comment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/blog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="67" column="10" lean-forward="false" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/blog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="56" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog_new.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_new.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog_view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parsed_url</find>
+      <find>http_response</find>
+      <find>response_with_headers</find>
+      <find>insertTodo</find>
+      <find>log</find>
+      <find>todos</find>
+      <find>todo_list</find>
+      <find>click</find>
+      <find>weibo.js</find>
+      <find>add</find>
+      <find>click add</find>
+      <find>apiTodoAdd</find>
+      <find>id-button-add</find>
+      <find>apiWeiboAdd</find>
+      <find>json_response</find>
+      <find>insertWeibo</find>
+      <find>WeiboTemplate</find>
+      <find>bindEventWeiboDelete</find>
+      <find>apiWeiboDelete</find>
+      <find>request</find>
+      <find>insertEditForm</find>
+      <find>apiWeiboUpdate</find>
+      <find>bindEventWeiboAdd</find>
+      <find>完整</find>
+      <find>path and query</find>
+      <find>WeiboCell</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/课1/预习/1上课预习.py" />
+        <option value="$PROJECT_DIR$/课1/作业1.py" />
+        <option value="$PROJECT_DIR$/课2/上课预习2/上课预习2.py" />
+        <option value="$PROJECT_DIR$/课2/作业2.py" />
+        <option value="$PROJECT_DIR$/课3/课4作业.py" />
+        <option value="$PROJECT_DIR$/课3/上课3板书/server.py" />
+        <option value="$PROJECT_DIR$/课3/上课3板书/models/__init__.py" />
+        <option value="$PROJECT_DIR$/课3/上课3板书/models/user.py" />
+        <option value="$PROJECT_DIR$/课3/上课3板书/models/message.py" />
+        <option value="$PROJECT_DIR$/课4/上课预习4/models.py" />
+        <option value="$PROJECT_DIR$/课5/课5作业.py" />
+        <option value="$PROJECT_DIR$/课5/上课预习5/templates/todo_edit.html" />
+        <option value="$PROJECT_DIR$/课5/上课预习5/routes_todo.py" />
+        <option value="$PROJECT_DIR$/课5/上课预习5/templates/todo_index.html" />
+        <option value="$PROJECT_DIR$/课5/上课预习5/todo.py" />
+        <option value="$PROJECT_DIR$/课6/课6作业.py" />
+        <option value="$PROJECT_DIR$/课9/web9板书/web9上课预习.html" />
+        <option value="$PROJECT_DIR$/测试.py" />
+        <option value="$PROJECT_DIR$/课9/课9作业/zoye1.js" />
+        <option value="$PROJECT_DIR$/课9/课9作业/作业1.html" />
+        <option value="$PROJECT_DIR$/课12/web12_linux和服务器虚拟机.py" />
+        <option value="$PROJECT_DIR$/课12/web12上课板书_linux和服务器虚拟机.py" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/server.py" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/templates/weibo_index.html" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/data/Weibo.txt" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/static/gua.js" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/log.gua.txt" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/routes/api_todo.py" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/models/weibo.py" />
+        <option value="$PROJECT_DIR$/课10/web10上课板书/static/weibo.js" />
+        <option value="$PROJECT_DIR$/课11/作业1.html" />
+        <option value="$PROJECT_DIR$/课11/作业5.html" />
+        <option value="$PROJECT_DIR$/课11/导航栏作业4.html" />
+        <option value="$PROJECT_DIR$/课11/图标输入框作业.html" />
+        <option value="$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/wspi.py" />
+        <option value="$PROJECT_DIR$/课14/web14准备工作-linux服务器设置/1-linux服务器设置.txt" />
+        <option value="$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/wsgi.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1604" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web4内容" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web4内容" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python-study\web4内容\课2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python-study\web4内容\课15" />
+      <recent name="C:\Python-study\web4内容\课14" />
+      <recent name="C:\Python-study\web4内容\课11" />
+      <recent name="C:\Python-study\web4内容\课13" />
+      <recent name="C:\Python-study\web4内容\课12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration default="false" name="作业1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课1/作业1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="作业2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课2/作业2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课10/web10上课板书" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课10/web10上课板书/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web4内容" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.作业1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.作业2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.server" />
+      <item index="3" class="java.lang.String" itemvalue="Python.测试" />
+      <item index="4" class="java.lang.String" itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.server" />
+        <item index="2" class="java.lang.String" itemvalue="Python.测试" />
+        <item index="3" class="java.lang.String" itemvalue="Python.作业2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.作业1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cccfb82-f6db-4d32-810d-ce8d4a5f7fb1" name="Default" comment="" />
+      <created>1487863987737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487863987737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1604" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13539043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.5025" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2183755" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/templates/weibo_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/routes/routes_weibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/data/Weibo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="360" column="0" lean-forward="false" selection-start-line="360" selection-start-column="0" selection-end-line="360" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="317" column="0" lean-forward="false" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="110" column="4" lean-forward="false" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/log.gua.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="662" column="23" lean-forward="false" selection-start-line="662" selection-start-column="9" selection-end-line="662" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/routes/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/routes/todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课6/上课板书6/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="215" column="8" lean-forward="false" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584">
+          <caret line="118" column="8" lean-forward="false" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/models/todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="44" column="16" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/data/Todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/templates/todo_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/static/gua.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/static/weibo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="173" column="25" lean-forward="false" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/data/Comment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/static/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/models/weibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课10/web10上课板书/routes/api_todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课11/web11上课板书/web11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="94" column="48" lean-forward="false" selection-start-line="94" selection-start-column="48" selection-end-line="94" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课11/作业1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="49" column="8" lean-forward="false" selection-start-line="49" selection-start-column="8" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课11/作业5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="46" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课11/导航栏作业4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课11/图标输入框作业.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="42" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品/templates/message_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/log.gua.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/routes/todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课13/web13-flask和服务器部署/web13上课用品豪华版/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="127" column="77" lean-forward="false" selection-start-line="127" selection-start-column="77" selection-end-line="127" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课14/web14准备工作-linux服务器设置/1-linux服务器设置.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课用品/data/Blog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课用品/log.gua.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课用品/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课用品/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课用品/web15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课用品/templates/session_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/session_index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/session_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/comment_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/comment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/models/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="56" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/templates/blog_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课15/web15上课板书/web15上课用品/routes/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="67" column="10" lean-forward="false" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

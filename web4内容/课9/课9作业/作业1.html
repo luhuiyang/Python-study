@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>web9 作业</title>
+</head>
+<body>
+    <input id='id-input-account'>
+    <button id='id-button-login'>add</button>
+    <h3 id='id-h3-check'>登录检查</h3>
+</body>
+<script>
+    var log = function() {
+        console.log.apply(console, arguments)
+    }
+
+    var find = function(sel) {
+            return document.querySelector(sel)
+        }
+
+    var buttonClick = function() {
+        var input = find('#id-input-account')
+        var account = input.value
+        if(checkaccount(account)){
+            log('检查合格')
+            checkResult(true)
+        } else {
+            log('用户名错误')
+            checkResult(false)
+        }
+    }
+
+    var clearAccount = function() {
+        account = find('#id-input-account')
+        account.value = ''
+    }
+
+    var checkResult = function(check) {
+        var checked = find('#id-h3-check')
+        log(checked)
+        if (check) {
+            log('登录修改true')
+            checked.innerHTML = '检查合格'
+        } else {
+            log('登录修改false')
+            clearAccount()
+            checked.innerHTML = '用户错误'
+        }
+    }
+
+    var checkaccount = function(account) {
+        var alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+        var numbers = '0123456789'
+        if (alphabet.indexOf(account[0])<0 || account.length < 2 || account.length > 10) {
+            log('false 1')
+            return false
+        }
+        var end = account.length - 1
+        if (alphabet.indexOf(account[end]) < 0 && numbers.indexOf(account[end]) < 0) {
+            log('false 2')
+            return false
+        }
+        var symbol = '_'
+        var all = alphabet + numbers + symbol
+        for (var i=0; i<account.length;i++) {
+            if (all.indexOf(account[i]) >= 0) {
+                  continue
+            }
+            log('false 3')
+            return false
+        }
+        return true
+    }
+
+    var button = find('#id-button-login')
+    button.addEventListener('click', buttonClick)
+
+</script>
+</html>
